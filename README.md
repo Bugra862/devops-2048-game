@@ -151,7 +151,5 @@ sudo systemd-resolve --flush-caches  # Linux
 ```
 
 
-### 3️⃣ Make Sure Docker Desktop Running
-
 
 
