@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tile-2048
-        image: tile-2048-game:latest
+        image: game-2048-tile:latest
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 80
